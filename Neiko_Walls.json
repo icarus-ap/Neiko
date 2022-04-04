@@ -42,37 +42,37 @@
     "name": "light_1",
     "author": "IcarusAP",
     "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_1.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_1.png,
+    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_1.png",
     "dimensions": "1320x2340",
     "copyright": "IcarusAP"
   },
   {
     "name": "light_2",
     "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_2.png"",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_2.png"",
+    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_2.png",
     "dimensions": "1320x2340"
   },
   {
     "name": "light_3",
     "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_3.png"",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_3.png"",
+    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_3.png",
+    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_3.png",
     "dimensions": "1320x2340"
   },
   {
     "name": "light_4",
     "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_4.png"",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_4.png"",
+    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_4.png",
+    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_4.png",
     "dimensions": "1320x2340"
 
   },
   {
     "name": "light_5",
     "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_5.png"",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_5.png"",
+    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_5.png",
+    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_5.png",
     "dimensions": "1320x2340"
   }
 ]
