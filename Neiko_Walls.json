@@ -39,6 +39,13 @@
     "dimensions": "1320x2340"
   },
   {
+    "name": "dark_6",
+    "author": "IcarusAP",
+    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_6.png",
+    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_6.png",
+    "dimensions": "1320x2340"
+  },
+  {
     "name": "light_1",
     "author": "IcarusAP",
     "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_1.png",
@@ -73,6 +80,14 @@
     "author": "IcarusAP",
     "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_5.png",
     "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_5.png",
+    "dimensions": "1320x2340"
+
+  },
+  {
+    "name": "light_6",
+    "author": "IcarusAP",
+    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_6.png",
+    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_6.png",
     "dimensions": "1320x2340"
   }
 ]
