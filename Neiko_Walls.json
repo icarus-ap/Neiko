@@ -1,5 +1,4 @@
-[
-  {
+[{
          "author":"icarusap",
          "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/dark_1.png",
          "name":"dark_1",
@@ -69,6 +68,5 @@
          "author":"icarusap",
          "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/light_6.png",
          "name":"Light_6",
-         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_6.png"
-      }
-   ]
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/light_6.png"
+      }]
