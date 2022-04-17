@@ -1,88 +1,76 @@
 {
    "wallpapers":[
-  {
-    "name": "dark_1",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_1.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_1.png",
-    "dimensions": "1320x2340"
-  },
-  {
-    "name": "dark_2",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_2.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_2.png",
-    "dimensions": "1320x2340"
-  },
-  {
-    "name": "dark_3",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_3.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_3.png",
-    "dimensions": "1320x2340"
-  },
-  {
-    "name": "dark_4",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_4.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_4.png",
-    "dimensions": "1320x2340"
-  },
-  {
-    "name": "dark_5",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_5.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_5.png",
-    "dimensions": "1320x2340",
-  },
-  {
-    "name": "dark_6",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_6.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_6.png",
-    "dimensions": "1320x2340"
-  },
-  {
-    "name": "light_1",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_1.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_1.png",
-    "dimensions": "1320x2340"
-  },
-  {
-    "name": "light_2",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_2.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_2.png",
-    "dimensions": "1320x2340"
-  },
-  {
-    "name": "light_3",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_3.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_3.png",
-    "dimensions": "1320x2340"
-  },
-  {
-    "name": "light_4",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_4.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_4.png",
-    "dimensions": "1320x2340"
-  },
-  {
-    "name": "light_5",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_5.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_5.png",
-    "dimensions": "1320x2340"
-
-  },
-  {
-    "name": "light_6",
-    "author": "IcarusAP",
-    "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_6.png",
-    "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_6.png",
-    "dimensions": "1320x2340"
-  }
-]
+      {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_1.png",
+         "name":"dark_1",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_1.png"
+      },
+      {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_2.png",
+         "name":"dark_2",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_2.png"
+      },
+      {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_3.png",
+         "name":"dark_3",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_3.png"
+      },
+            {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_4.png",
+         "name":"dark_4",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_4.png"
+      },
+               {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_5.png",
+         "name":"dark_5",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_5.png"
+      },
+               {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_6.png",
+         "name":"dark_6",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_6.png"
+      },
+      {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_1.png",
+         "name":"Light_1",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_1.png"
+      },
+      {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_2.png",
+         "name":"Light_2",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_2.png"
+      },
+      {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_3.png",
+         "name":"Light_3",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_3.png"
+      },
+      {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_4.png",
+         "name":"Light_4",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_4.png"
+      },
+      {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_5.png",
+         "name":"Light_5",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_5.png"
+      },
+      {
+         "author":"icarusap",
+         "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_6.png",
+         "name":"Light_6",
+         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_6.png"
+      }
+   ]
+}
