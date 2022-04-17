@@ -1,6 +1,5 @@
-{
-   "wallpapers":[
-      {
+[
+  {
          "author":"icarusap",
          "url":"https://raw.githubusercontent.com/icarus-ap/Neiko/main/Dark_1.png",
          "name":"dark_1",
@@ -73,4 +72,3 @@
          "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/Light_6.png"
       }
    ]
-}
