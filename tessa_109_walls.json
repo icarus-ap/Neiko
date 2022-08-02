@@ -1,5 +1,23 @@
 [
 {
+"name": "Outlines",
+"author": "IcarusAP",
+"url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/outlines.png",
+"thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/outlines.png",
+"dimensions": "1320x2340",
+"copyright": "icarusap.com 2020-2022"
+},
+  
+{
+"name": "Shell",
+"author": "IcarusAP",
+"url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/shell.png",
+"thumbnail": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/shell.png",
+"dimensions": "1320x2340",
+"copyright": "icarusap.com 2020-2022"
+},
+  
+{
 "name": "Tree in the Woods",
 "author": "IcarusAP",
 "url": "https://raw.githubusercontent.com/icarus-ap/Neiko/main/tree%20in%20the%20woods.png",
